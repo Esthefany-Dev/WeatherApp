@@ -8,7 +8,7 @@
 
 <p align="justify">
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalidades:
 
 - **Pesquisa por Cidade:** Os usuários podem pesquisar previsões do tempo para qualquer cidade digitando o nome da cidade desejada.
 
@@ -16,7 +16,7 @@
 
 - **Tema Dinâmico:** O Weather App altera automaticamente o fundo de tela para representar diferentes momentos do dia, como manhã, tarde, fim de tarde e noite.
 
-## 🌐 Tecnologias
+## 🌐 Tecnologias:
 
 O projeto foi desenvolvido com as seguintes tecnologias:
 - React Native
@@ -40,4 +40,5 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver algu
 Este projeto está licenciado sob a MIT License - consulte o arquivo `LICENSE.md` para obter detalhes.
 </p>
 
+----
 👩‍💻 by [Esthefany-Dev](https://github.com/Esthefany-Dev)
